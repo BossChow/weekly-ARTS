@@ -1,5 +1,6 @@
 # Weekly ARTS
-Algorithm
-Review
-Tip
-Share
+
+* Algorithm
+* Review
+* Tip
+* Share
