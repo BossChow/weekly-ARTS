@@ -1,6 +1,14 @@
 # Weekly ARTS
 
-* Algorithm
-* Review
-* Tip
-* Share
+## Algorithm
+每周掌握一个算法
+
+## Review
+每周阅读一篇英文文章
+-[x] week1: [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
+## Tip
+每周学习一项技术技巧
+
+## Share
+每周分享一篇技术Blog
