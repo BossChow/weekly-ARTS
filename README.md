@@ -4,11 +4,11 @@
 > Tip: 学习一项技术技巧
 > Share: 分享一篇技术Blog
 
-## A
+## Algorithm
 
-## R
+## Review
 - [x] week1: [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
-## T
+## Tip
 
-## S
+## Share
