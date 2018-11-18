@@ -1,13 +1,7 @@
 # week1
 
 ## Algorithm
-
-### Desc
-> Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-> You may assume that each input would have exactly one solution, and you may not use the same element twice.
-
-
-
+[two_sum](two_sum.go)
 
 ## Review
 [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
