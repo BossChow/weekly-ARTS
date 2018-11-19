@@ -6,6 +6,7 @@
 
 ## Algorithm
 - [x] week1: [Two Sum](https://leetcode.com/problems/two-sum/description/)
+- [ ] week2:  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 
 ## Review
 - [x] week1: [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
