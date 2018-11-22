@@ -10,7 +10,9 @@
 
 ## Review
 - [x] week1: [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+- [ ] week2: [Best practices for a new Go developer](https://blog.rubylearning.com/best-practices-for-a-new-go-developer-8660384302fc)
 
 ## Tip
 
 ## Share
+- [ ] 加密算法-RSA
