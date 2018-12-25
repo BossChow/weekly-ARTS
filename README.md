@@ -13,6 +13,7 @@
 ## Review
 - [x] week1: [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [ ] week2: [Best practices for a new Go developer](https://blog.rubylearning.com/best-practices-for-a-new-go-developer-8660384302fc)
+- [ ] week3: [Knowledge Is Not a Thing](https://medium.com/s/more-to-that/knowledge-is-not-a-thing-48c0e591be41)
 
 ## Tip
 - [ ] Go爬虫
