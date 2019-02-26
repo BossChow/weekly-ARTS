@@ -1,6 +1,10 @@
 package main
 
 func lengthOfLongestSubstring(s string) int {
+	if s == "" {
+		return 0
+	}
+
 	filter := make(map[rune]string, 0)
 	l := 0
 
