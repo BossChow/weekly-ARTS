@@ -12,7 +12,8 @@
 - [x] week2:  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 - [ ] week3: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [ ] week4: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
-- [  ] week5: [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+- [ ] week5: [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+- [ ] week6: [删除元素，令其余元素乘积最大](/week6)
 
 ## Review
 - [x] week1: [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
