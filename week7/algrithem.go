@@ -8,16 +8,11 @@ func maxIncreaseKeepingSkyline(grid [][]int) int {
 		for j, item := range arr {
 			if item > topAndBottomSkyline[j] {
 				topAndBottomSkyline[j] = item
-
 			}
-
 			if item > leftAndRightSkyline[i] {
 				leftAndRightSkyline[i] = item
-
 			}
-
 		}
-
 	}
 
 	counter := 0
@@ -25,16 +20,10 @@ func maxIncreaseKeepingSkyline(grid [][]int) int {
 		for j, item := range arr {
 			if topAndBottomSkyline[j] >= leftAndRightSkyline[i] {
 				counter += leftAndRightSkyline[i] - item
-
 			} else {
 				counter += topAndBottomSkyline[j] - item
-
 			}
-
 		}
-
 	}
-
 	return counter
-
 }

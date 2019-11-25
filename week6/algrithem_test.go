@@ -48,7 +48,7 @@ func TestFindRemovedIndex(t *testing.T) {
 		},
 		{
 			name: "负值含0数组",
-			args:args{[]int{-1, -2, -3, 0}},
+			args: args{[]int{-1, -2, -3, 0}},
 			want: 0,
 		},
 	}
